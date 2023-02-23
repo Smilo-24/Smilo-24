@@ -1,4 +1,4 @@
-### Hi, I'm Simone👋
+Hi, I'm Simone👋
 
 
 **Smilo-24/Smilo-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
