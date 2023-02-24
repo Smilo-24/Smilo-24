@@ -1,3 +1,5 @@
+![SimoneLogo](https://user-images.githubusercontent.com/107654486/221131259-05a7451c-abc8-4546-8965-f54ecf2ee3f7.png)
+
 Hi, I'm Simone👋✨
 
 - 🔭 I’m currently working on 👨‍💻
@@ -10,4 +12,4 @@ Hi, I'm Simone👋✨
 - 😄 Pronouns: Smilo
 - ⚡ Fun fact: Love Hip Hop Music, K1(from Muay Thai)
 
-![SimoneLogo](https://user-images.githubusercontent.com/107654486/221131259-05a7451c-abc8-4546-8965-f54ecf2ee3f7.png)
+
