@@ -3,7 +3,7 @@
 Hi, I'm Simone👋✨
 
 - 🔭 I’m currently working on 👨‍💻
-- 🌱 I’m currently learning .Net
+- 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on financial project 
 - 🤔 I’m looking for help with improve my studies
 - 💬 Ask me about My passion🥊
